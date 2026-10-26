@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Enrico 👋
+
+I enjoy building robots and robotics software, combining hardware, autonomous navigation, and control.
+
+### Main projects
+
+- 🤖 **[Sbem](https://github.com/enrico391/Sbem_workspace)** — My 3D-printed companion robot, built with ROS 2, Nav2, and NVIDIA Jetson, featuring autonomous navigation.
+- 🚁 **[Drone Docking](https://github.com/enrico391/drone_docking)** — Autonomous drone docking using PX4, ROS 2, and AprilTag localization.
+- 🦾 **[Dynamic Payload Analysis — PAL Robotics](https://github.com/pal-robotics/dynamic_payload_analysis)** — My Google Summer of Code 2025 project: tools for analyzing robot payload capacity and actuator requirements, with ROS 2 and RViz integration.
+
+**Working with:** ROS 2 · Python · C++ · Gazebo · NVIDIA Jetson · PX4
 
 <!--
 **enrico391/enrico391** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
